@@ -6,10 +6,10 @@
 　セーブ・ロード機能をオリジナル版に移植\
 ・試合中にセレクトボタンを押している間、早送りできる機能を追加
 
-セーブ時
+セーブ時\
 <img src="docs\image/t2_2_1.png" width="30%"> <img src="docs\image/t2_2_2.png" width="30%">
 
-ロード時
+ロード時\
 <img src="docs\image/t2_1_1.png" width="30%"> <img src="docs\image/t2_1_2.png" width="30%">
 
 Database match: Captain Tsubasa Vol. II - Super Striker (Japan).nes\
