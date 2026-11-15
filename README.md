@@ -2,7 +2,7 @@
 
 ## Captain Tsubasa Vol. II save & fastforward-jp
 
-・Captain Tsubasa Vol. II: Super Striker - PLUS (https://www.romhacking.net/hacks/10127/) から、\
+・vhernandezm さんの Captain Tsubasa Vol. II: Super Striker - PLUS (https://www.romhacking.net/hacks/10127/) から、\
 　セーブ・ロード機能をオリジナル版に移植\
 ・試合中にセレクトボタンを押している間、早送りできる機能を追加
 
