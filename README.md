@@ -15,6 +15,7 @@
 Database match: Captain Tsubasa Vol. II - Super Striker (Japan).nes\
 File/ROM SHA-1: 43c26781d88e062afa81c1a32f8345011fe53b8c
 
+
 ## Dragon Quest III dash & record-jp
 
 ・コマンドを拡張して、きろく（どこでもセーブ）機能を追加\
@@ -28,10 +29,11 @@ File/ROM SHA-1: 43c26781d88e062afa81c1a32f8345011fe53b8c
   　コマンドが「はしる」の時：内部は通常の歩きモード → Bボタンを押している間走る\
 
 どこでもセーブ\
-<img src="docs\dq3_s" width="30%">
+<img src="docs\image/dq3_s" width="30%">
 
 内部移動速度モード切替\
 <img src="docs\image/dq3_d1.png" width="30%"> <img src="docs\image/dq3_d2.png" width="30%">
 
 Database match: Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B).nes\
 File/ROM SHA-1: 9c3c5db50c7c56ffe054469bdbaee3edf1c424c5
+
