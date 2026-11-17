@@ -38,3 +38,15 @@ File/ROM SHA-1: 43c26781d88e062afa81c1a32f8345011fe53b8c
 Database match: Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B).nes\
 File/ROM SHA-1: 9c3c5db50c7c56ffe054469bdbaee3edf1c424c5
 
+
+## WreckingCrew 2P CO-OP
+
+・Q____, puchiedarcy 氏の Wrecking Two\
+　(https://www.romhacking.net/hacks/3824/) から、\
+　2P同時協力プレイをオリジナル版に移植\
+
+内部移動速度モード切替\
+<img src="docs\image/wc_2p_1.png" width="30%"> <img src="docs\image/wc_2p_2.png" width="30%">
+
+
+ 
