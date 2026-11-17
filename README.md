@@ -44,8 +44,10 @@ File/ROM SHA-1: 9c3c5db50c7c56ffe054469bdbaee3edf1c424c5
 ・Q____, puchiedarcy 氏の Wrecking Two\
 　(https://www.romhacking.net/hacks/3824/) から、\
 　2P同時協力プレイをオリジナル版に移植\
+・1P側はマリオ、2P側はブラッキー\
+　ブラッキーは常に裏にいて、敵に触れても画面外に出ても死なないため、マリオをサポートしてプレイ
 
-内部移動速度モード切替\
+2P同時協力プレイ\
 <img src="docs\image/wc_2p_1.png" width="30%"> <img src="docs\image/wc_2p_2.png" width="30%">
 
 
