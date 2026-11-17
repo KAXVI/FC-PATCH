@@ -2,9 +2,9 @@
 
 ## Captain Tsubasa Vol. II save & fastforward-jp
 
- ・vhernandezm 氏の [Captain Tsubasa Vol. II: Super Striker - PLUS](https://www.romhacking.net/hacks/10127/) から、\
- 　セーブ・ロード機能をオリジナル版に移植\
- ・試合中にセレクトボタンを押している間、早送りできる機能を追加
+・vhernandezm 氏の [Captain Tsubasa Vol. II: Super Striker - PLUS](https://www.romhacking.net/hacks/10127/) から、\
+　セーブ・ロード機能をオリジナル版に移植\
+・試合中にセレクトボタンを押している間、早送りできる機能を追加
 
 セーブ時\
 <img src="docs\image/t2_2_1.png" width="30%"> <img src="docs\image/t2_2_2.png" width="30%">
@@ -40,8 +40,7 @@ File/ROM SHA-1: 9c3c5db50c7c56ffe054469bdbaee3edf1c424c5
 
 ## WreckingCrew 2P CO-OP
 
-・Q____, puchiedarcy 氏の Wrecking Two\
-　(https://www.romhacking.net/hacks/3824/) から、\
+・Q____, puchiedarcy 氏の [Wrecking Two](https://www.romhacking.net/hacks/3824/) から、\
 　2P同時協力プレイをオリジナル版に移植\
 ・1P側はマリオ、2P側はブラッキー\
 　ブラッキーは常に裏にいて、敵に触れても画面外に出ても死なないため、マリオをサポートしてプレイ
