@@ -14,6 +14,7 @@
 
 Database match: Captain Tsubasa Vol. II - Super Striker (Japan).nes\
 File/ROM SHA-1: 43c26781d88e062afa81c1a32f8345011fe53b8c
+※NESエミュレータ／Mister FPGA NESコア／EverDrive N8 PRO Fami にて確認済み
 
 
 ## Dragon Quest III dash & record-jp
@@ -36,6 +37,7 @@ Bボタンを押している間、内部移動速度モードが反転する\
 
 Database match: Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B).nes\
 File/ROM SHA-1: 9c3c5db50c7c56ffe054469bdbaee3edf1c424c5
+※NESエミュレータ／Mister FPGA NESコア／EverDrive N8 PRO Fami にて確認済み
 
 
 ## WreckingCrew 2P CO-OP
@@ -50,6 +52,7 @@ File/ROM SHA-1: 9c3c5db50c7c56ffe054469bdbaee3edf1c424c5
 
 Database match: Wrecking Crew (World).nes\
 File/ROM SHA-1: 31635f1a5255fe8954c5a275b067f603bb7af408
+※NESエミュレータ／Mister FPGA NESコア／EverDrive N8 PRO Fami にて確認済み
 
 
  
