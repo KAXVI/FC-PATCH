@@ -80,7 +80,7 @@ File/ROM SHA-1: 31635f1a5255fe8954c5a275b067f603bb7af408\
 
 ▽パッチの反映
 
-・Chaotic Gate さんの [Wizardry I - Resolution](https://advent.ivory.ne.jp/gate/wizardry/index.html) を組み込み反映
+・Chaotic Gate 氏の [Wizardry I - Resolution](https://advent.ivory.ne.jp/gate/wizardry/index.html) を組み込み反映
 
 ▽調整
 
